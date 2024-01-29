@@ -25,7 +25,7 @@ def game_screen(window):
         # ----- Gera saídas
         window.fill(BLACK)  # Preenche com a cor branca
 
-        #desenhar os triangulos aqui
+        #desenhar os retangulos aqui
 
         pygame.display.update()  # Mostra o novo frame para o jogador
 
